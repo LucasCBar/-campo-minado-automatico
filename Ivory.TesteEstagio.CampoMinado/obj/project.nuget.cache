@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "d+sRhF3QWz7y5sXq7dt7GKiw4dSLyAkSVR+VUKGGnirKh2rqrx0y643hGnUNbPDhzFE2tqZcplXUH0nEoC7jjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samsung\\Desktop\\ivoryit-testeestagio-campo-minado-master\\Ivory.TesteEstagio.CampoMinado\\Ivory.TesteEstagio.CampoMinado.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samsung\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

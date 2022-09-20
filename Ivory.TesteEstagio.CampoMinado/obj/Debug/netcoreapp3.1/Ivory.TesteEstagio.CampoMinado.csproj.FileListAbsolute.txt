@@ -1,0 +1,14 @@
+C:\Users\Samsung\Desktop\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.exe
+C:\Users\Samsung\Desktop\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.deps.json
+C:\Users\Samsung\Desktop\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.runtimeconfig.json
+C:\Users\Samsung\Desktop\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.dll
+C:\Users\Samsung\Desktop\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.pdb
+C:\Users\Samsung\Desktop\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.dll
+C:\Users\Samsung\Desktop\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.pdb
+C:\Users\Samsung\Desktop\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.genruntimeconfig.cache
